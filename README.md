@@ -59,7 +59,7 @@ GroceryStore/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cschauhan0304/dairy_digitization.git
+   git clone https://github.com/Bhaumiksingh10/dairy_digitization.git
    ```
 
 2. **Import into Eclipse**
